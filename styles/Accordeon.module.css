@@ -1,0 +1,36 @@
+
+ .accordeon:hover{
+    background-color: rgb(172, 222, 214);
+    transition: 0.2s;
+    
+}
+.matchesComp{
+    max-width: 70%;
+    width: 65%;
+}
+
+
+.teamsComp{
+    color: black;
+}
+/* .accordeon:active{
+    background-color: darkgoldenrod;
+    transition: 0.2s;
+} */
+ 
+
+
+/* .accordeon2:hover{
+    background-color: lightblue;
+    transition: 0.2s;
+}
+*/
+/* .accordeon2:active{
+    background-color: blueviolet;
+    transition: 0.5s;
+} *
+
+.accordeon2:focus{
+    background-color: lightblue;
+    transition: 0.5s; 
+}*/

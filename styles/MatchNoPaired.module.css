@@ -1,0 +1,29 @@
+.basic{
+    width: 50%;
+    display: grid;
+    background-color: bisque;
+}
+
+.matchTeam{
+    display: flex;
+    margin-top: 2em;
+}
+
+
+.pair_all{
+    display: flex;
+    /* align-content: flex-end; */
+    /* border: 3px solid #73AD21; */
+    justify-content: space-between;
+
+}
+.grid{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+/* border: 3px solid #73AD21; */
+}
+.ok{
+    font-size: large;
+    /* border: 3px solid #73AD21; */
+    display: flex;
+    /* background-color: salmon; */
+}

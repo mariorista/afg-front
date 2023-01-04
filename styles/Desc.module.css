@@ -1,0 +1,51 @@
+.cls {
+    display: flex;
+    /* height: 500px;
+    width: 500px; */
+    justify-content: space-around;
+    /* #justify-content: center; */
+    flex-flow: row wrap;
+    background-color: DodgerBlue;
+    /* #overflow: scroll;  */
+    /* #align-items: center; */
+    /* #align-content: space-around; */
+  }
+  
+  .cls > div {
+    background-color: #f1f1f1;
+   /* # width: auto; */
+    margin: 10px;
+    text-align: center;
+    line-height: 20px;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+  }
+
+  .desctitle{
+    display: inline;
+    background-color: blueviolet;
+    /* margin: 10px; */
+    text-align: center;
+  }
+
+
+  .descsubtitle{
+    display: inline;
+    background-color: red;
+    /* margin: 10px; */
+    text-align: center;
+  }
+
+  .teamsPair{
+    background-color: azure;
+    line-height: 2em;
+  }
+
+  .listsBox{
+    display: inline-flex;
+    background-color: chocolate;
+    margin: 2em 2em 2em 2em;
+    padding: 2em 2em 2em 2em;
+  }
+
+  
